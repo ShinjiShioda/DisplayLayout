@@ -4,6 +4,7 @@
 
 <div align="center">
     <img src="./images/DisplayLayout-256x256.png">
+<P>2024年10月8日</BR>Ver.0.9.40.0</P>
 </div>
 
 ### 特徴
